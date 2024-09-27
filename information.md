@@ -1,8 +1,7 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
 description: >
-  SOme first information on the 58th Population Genetics Group meeting
+  Some first information on the 58th Population Genetics Group meeting
 hide_description: true
 redirect_from:
   - /download/

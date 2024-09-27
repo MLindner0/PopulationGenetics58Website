@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/blog/background.png
 description: >
   A quick introduction of the Population Genetics Group
 hide_description: true
