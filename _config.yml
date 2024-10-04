@@ -52,8 +52,8 @@ menu:
     url:               /about/
   - title:             Program
     url:               /program/
-  - title:             Information
-    url:               /information/
+  - title:             Plan your trip
+    url:               /trip/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

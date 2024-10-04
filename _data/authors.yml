@@ -8,15 +8,18 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    The **Population Genetics Group** (or PopGroup, or PGG) is an annual meeting of population and evolutionary geneticists held in the UK since 1968. The meetings have been very influential in promoting population and evolutionary genetics in the UK, Europe, and elsewhere. **In 2025, the 58th PopGroup meeting will be held at University of Sheffield, UK**.
+    The **Population Genetics Group** (or PopGroup, or PGG) is an annual meeting of population and evolutionary geneticists held in the UK since 1968. The meeting showcases population and evolutionary genetics from across the world, and has a reputation for being a collegiate, welcoming and inspiring event. Many postgraduate researchers give their first ever conference talk at PopGroup.
+
+    **The University of Sheffield is delighted to be hosting the 58th Meeting in 2025**. The University has a long-standing research strength in evolutionary biology, population genetics and molecular ecology. For over 25 years it has housed a NERC-funded visitor facility that has trained ecologists in molecular techniques. The last time Popgroup was held in Sheffield was in 2015, when Roger Butlin was the organiser. This year, the programme includes a special symposium in honour of Roger to mark his formal retirement and his extraordinary contributions to speciation and population genetics research. **We look forward to welcoming lots of you to Sheffield**.
+
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/dna.png
+    path:            /assets/img/PopGroupLogo_square.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/dna.png
-      2x:            /assets/img/dna.png
+      1x:            /assets/img/PopGroupLogo_square.png
+      2x:            /assets/img/PopGroupLogo_square.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -62,17 +65,3 @@ author1:
     # download:        <url>
     # keybase          <username>
 
-# Another author (optional)
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
-
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
