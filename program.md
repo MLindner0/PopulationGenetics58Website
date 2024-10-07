@@ -18,6 +18,8 @@ redirect_from:
 
 ![Program Overview](/assets/img/preliminary_program.png)
 
+**Venue**: The meeting will be hosted in the ([Diamond](https://www.sheffield.ac.uk/library/buildings/diamond)) at the University of Sheffield.
+
 ## Plenary Speakers
 
 We are delighted to announce three fantastic pleanary speaker!
@@ -45,7 +47,7 @@ Senior Lecturer in Evolutionary Genomics, School of Biological and Medical Scien
 
 ## Workshop
 
-On Monday afternoon, January 6, The NERC Environmental Omics Facilty ([NEOF](https://neof.org.uk/training/)) will provide a workshop titled **Population Penomics**. More information and instructions on how to register will follow soon.
+On Monday afternoon, January 6, The NERC Environmental Omics Facilty ([NEOF](https://neof.org.uk/training/)) will provide a workshop titled **Population Genomics**. More information and instructions on how to register will follow soon.
 
 
 
