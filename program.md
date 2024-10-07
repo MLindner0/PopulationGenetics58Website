@@ -25,14 +25,14 @@ We are delighted to announce three fantastic pleanary speaker!
 ### Katerina Guschanski
 Senior Lecturer in Genomics, School of Biological Sciences, University of Edinburgh & Department of Ecology and Genetics, Animal Ecology, Uppsala University 
 
-<img style="float: right;" width="200" height="200" src="/assets/img/KaterinaGuschanskismaller.JPEG"> **About Katerina.** The work in my group focuses on questions in speciation genomics, conservation genomics, and metagenomics. We like using samples that others tend to stay away from: feaces, bones, skins, and preserved bacterial biofilms contained in dental calculus. These samples have a story to tell, not only about the individual they come from but also about the time when this individual lived. It is this temporal aspect that we are most excited about. 
+[<img style="float: right;" width="200" height="200" src="/assets/img/KaterinaGuschanskismaller.JPEG">](https://github.com/MLindner0/PopulationGenetics58Website.git) **About Katerina.** The work in my group focuses on questions in speciation genomics, conservation genomics, and metagenomics. We like using samples that others tend to stay away from: feaces, bones, skins, and preserved bacterial biofilms contained in dental calculus. These samples have a story to tell, not only about the individual they come from but also about the time when this individual lived. It is this temporal aspect that we are most excited about. 
 
 **Preliminary talk title:** Old samples - new insights: Museum collections as time machines for questions in ecology, evolution, and conservation
 
 ### Stephen Wright
 Professor and Canada Research Chair in Population Genomics, Department of Ecology and Evolutionary Biology, University of Toronto
 
-<img style="float: right;" width="200" height="200" src="/assets/img/StephenWrightsmaller.JPG"> **About Stephen.** Research in the lab focuses on plant population and evolutionary genomics, with a particular focus on the causes and consequences of reproductive system evolution, and on understanding the genomic extent and dynamics of plant adaptation. Our goals are to use population and evolutionary genomics to test long-standing evolutionary theory, and to apply evolutionary perspectives to better understand genome structure and function.
+[<img style="float: right;" width="200" height="200" src="/assets/img/StephenWrightsmaller.JPG">] (https://github.com/MLindner0/PopulationGenetics58Website.git) **About Stephen.** Research in the lab focuses on plant population and evolutionary genomics, with a particular focus on the causes and consequences of reproductive system evolution, and on understanding the genomic extent and dynamics of plant adaptation. Our goals are to use population and evolutionary genomics to test long-standing evolutionary theory, and to apply evolutionary perspectives to better understand genome structure and function.
 
 **Preliminary talk title:** Adaptation and maladaption in plant genome
 
