@@ -43,7 +43,13 @@ Professor and Canada Research Chair in Population Genomics, Department of Ecolog
 **Preliminary talk title:** Adaptation and maladaption in plant genome
 
 ### Ravinder Kanda
-Senior Lecturer in Evolutionary Genomics, School of Biological and Medical Sciences, Oxford Brookes University
+Senior Lecturer in Evolutionary Genomics, Department of Biological and Medical Sciences, Oxford Brookes University
+
+![200x200](/assets/img/RavinderKandaSmaller.JPG "Ravinder Kanda")
+
+**About Ravinder.** Research in my group focuses on understanding the various evolutionary processes that have shaped the composition and evolution of genomes; more recently the focus has been on Endogenous Viral Elements (EVE’s) which constitute a substantial portion of vertebrate genomes. To date, much of the research in this area has focused on mammalian genomes. With the abundance of genomic data from a variety of species now available, we now have the opportunity to investigate the impact of these virally derived insertions across the tree of life.
+
+**Preliminary talk title:** Stowaways in the Genome
 
 ## Workshop
 
