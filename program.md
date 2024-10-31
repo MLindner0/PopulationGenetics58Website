@@ -22,7 +22,7 @@ redirect_from:
 
 ## Plenary Speakers
 
-We are delighted to announce three fantastic pleanary speakers!
+We are delighted to announce three fantastic plenary speakers!
 
 ### Katerina Guschanski
 Senior Lecturer in Genomics, School of Biological Sciences, University of Edinburgh & Department of Ecology and Genetics, Animal Ecology, Uppsala University 
@@ -53,7 +53,7 @@ Senior Lecturer in Evolutionary Genomics, Department of Biological and Medical S
 
 ## Workshop
 
-The NERC Environmental Omics Facilty ([NEOF](https://neof.org.uk/training/)) will provide a workshop titled **Population Genomics** on Monday afternoon 6th January.
+The NERC Environmental Omics Facility ([NEOF](https://neof.org.uk/training/)) will provide a workshop titled **Population Genomics** on Monday afternoon 6th January, 2-5pm.
 
 Join the NEOF bioinformatics team for this short session where we will demystify the process of using the command line to analyse genetic variation. 
 
@@ -78,5 +78,7 @@ Register to NEOF mailing list to hear first about future NEOF free bioinformatic
 ## Conference Dinner
 
 **The Conference Dinner will be held at [Kelham Island Museum](https://www.sheffieldmuseums.org.uk/visit-us/kelham-island-museum/) on Thursday 9th January**. The museum showcases Sheffield's industrial heritage, and guests will have time to explore the museum during their visit. There will also be a demonstration of The River Don Engine. Built in 1904, it is one of the most powerful steam engines ever constructed and has been used to make armour plates for battleships and reactor shields for nuclear power plants. A three course Dinner will then be held in the Upper Gallery before the tables are cleared away and the dancing starts! This year we have [Powerhouse Ceilidh Band](https://powerhouseceilidhband.com/) performing - Sheffield's finest geek-rock-folk ceilidh band!
+
+You can book a ticket for the Conference Dinner as part of the general registration form for the Population Genetics Group meeting (see [Registration](/registration.md)) at an extra cost of £60. Please note that places for the Conference Dinner are limited. 
 
 ![Conference dinner at Kelham Island Museum](/assets/img/dinner.png)

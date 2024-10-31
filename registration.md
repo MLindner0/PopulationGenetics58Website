@@ -9,16 +9,44 @@ redirect_from:
 
 # Registration & abstract submission
 
-[General information](#general-information) [Bursaries](#bursaries)
+[Registration](#registration) [Abstract submission](#abstract-submission-for-oral-or-poster-presentations) [Bursaries](#bursaries)
 
 - Table of Contents
 {:toc .large-only}
 
-## General information
+## Registration
 
-**Registration and abstract submission for the 58th Population Genetics Group meeting will open by 1st November** and links to the the respective forms will be posted here.
+**Registration for the 58th Population Genetics Group meeting is now open** and the registration form can be accessed here: [**Link to registration form**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-science/school-of-biosciences/population-genetics-group-annual-conference-popgroup58)
 
-We are looking forward to recieving your scientific contributions to the meeting! If you wish to contribute an oral or poster presentation please *first* register for the meeting and *then* submit an abstract for a contribution. We will try our very best to allocate a talk slot for all sumbissions for an oral presentation. If we reach full capacity, however, we will allocate talks on a first come, first serve basis. 
+Cost for general conference attendance:
+- Student, member of Genetics Society: £60
+- Student, non member of Genetics Society: £70
+- Academic, member of Genetics Society: £80
+- Academic, non member of Genetics Society: £90
+
+The **deadline for registration is 30th November**, so please ensure that you register soon.
+
+In addition to general conference attendance, the registration form also includes additional options:
+1. registration for the [Conference dinner](/program.md/#conference-dinner) at an extra cost of £60
+2. registration for a [NEOF workshop](/program.md/#workshop) on population genomics at an extra cost of £10
+3. free conference attendance for one member of any couple who will be sharing childcare duties during the conference, which must be specified in your booking.
+
+For information on other financial assistance with caring responsibilities and financial assistance with general attendance for “junior scientist” provided by the [Genetics Society](/assets/img/GSLogoFCOD.jpg), please see the [Bursaries](#bursaries) section below.
+
+
+## Abstract submission for oral or poster presentations
+
+We are looking forward to receiving your scientific contributions to the meeting! 
+
+If you wish to contribute an oral or poster presentation, **please *first* register for general conference attendance and *then* submit an abstract for a contribution**. We will try our very best to allocate a talk slot for all submissions for an oral presentation. If we reach full capacity, however, we will allocate talks on a first come, first serve basis. 
+
+After registration, you will receive the links for abstract submission in an automated email. Alternatively, you can access the links here:
+
+[**Link to submission form for an oral presentation**](https://forms.gle/whVTCAw1sAfSNvaS8)
+
+[**Link to submission form for a poster presentation**](https://forms.gle/whVTCAw1sAfSNvaS8)
+
+Please note again, that you cannot submit an abstract unless you have registered for general conference attendance.
 
 ## Bursaries
 
