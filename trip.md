@@ -15,7 +15,7 @@ Sheffield is well connected at a national level via Sheffield railway station an
 
 International travellers can reach Sheffield via train or plane.
 
-Sheffield railway station connects Sheffield to London St Pancras International Station (direct train, about 2h). The [international Eurostar train services](https://www.eurostar.com/uk-en) operates trains between London St Pancras International Station and Amsterdam, Brussels or Paris via the Channel Tunnel.
+Sheffield railway station connects Sheffield to London St Pancras International Station (direct train, about 2h). The [international Eurostar train services](https://www.eurostar.com/uk-en) operate trains between London St Pancras International Station and Amsterdam, Brussels or Paris via the Channel Tunnel.
 
 Alternatively, Sheffield railway station connects Sheffield to Manchester Airport (train via Manchester Piccadilly, about 1h20min).
 

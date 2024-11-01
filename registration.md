@@ -68,7 +68,7 @@ More information and how to apply can be found here: [Link to Carer's Award](htt
 
 The purpose of these grants is to support the attendance of Genetics Society “junior scientist” members at conferences on research in genetics.
 
-The Population Genetics Group is a Genetics Society sponsored special interest group, so you can apply through scheme A which provides up to £200 available for travel and essential overnight accommodation to attend meeting.
+The Population Genetics Group is a Genetics Society sponsored special interest group, so you can apply through scheme A which provides up to £200 available for travel and essential overnight accommodation to attend the meeting.
 
 The deadline for application is 1st December!
 
