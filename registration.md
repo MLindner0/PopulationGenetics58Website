@@ -44,7 +44,7 @@ After registration, you will receive the links for abstract submission in an aut
 
 [**Link to submission form for an oral presentation**](https://forms.gle/whVTCAw1sAfSNvaS8)
 
-[**Link to submission form for a poster presentation**](https://forms.gle/whVTCAw1sAfSNvaS8)
+[**Link to submission form for a poster presentation**](https://docs.google.com/forms/d/e/1FAIpQLScurtt9OiS93gHdS1gb8rX9yPeQefiaB9_l01cpBiJY62_AOw/viewform)
 
 Please note again, that you cannot submit an abstract unless you have registered for general conference attendance.
 
