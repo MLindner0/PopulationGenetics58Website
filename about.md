@@ -22,7 +22,7 @@ redirect_from:
 
 We are very grateful to our sponsors for financially supporting the meeting.
 
-![Genetics Society](/assets/img/GSLogoFCOD.jpg)
+![Genetics Society](/assets/img/Sponsors.png)
 
 ## Contact
 
