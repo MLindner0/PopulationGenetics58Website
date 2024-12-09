@@ -18,7 +18,7 @@ redirect_from:
 
 ![Program Overview](/assets/img/preliminary_program.png)
 
-**Venue**: The meeting will be hosted in the ([Diamond](https://www.sheffield.ac.uk/library/buildings/diamond)) at the University of Sheffield.
+**Venue**: The meeting will be hosted in the ([Diamond](https://www.google.com/maps/place/The+Diamond/@53.3816197,-1.4820851,17z/data=!4m15!1m8!3m7!1s0x48797881e28b3e81:0x611c9522ca2169ed!2sThe+Diamond!8m2!3d53.3817443!4d-1.4819343!10e5!16s%2Fg%2F1yglpf1x8!3m5!1s0x48797881e28b3e81:0x611c9522ca2169ed!8m2!3d53.3817443!4d-1.4819343!16s%2Fg%2F1yglpf1x8?authuser=0&entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D)) at the University of Sheffield.
 
 ## Plenary Speakers
 
@@ -40,7 +40,9 @@ Professor and Canada Research Chair in Population Genomics, Department of Ecolog
 
 **About Stephen.** Research in the lab focuses on plant population and evolutionary genomics, with a particular focus on the causes and consequences of reproductive system evolution, and on understanding the genomic extent and dynamics of plant adaptation. Our goals are to use population and evolutionary genomics to test long-standing evolutionary theory, and to apply evolutionary perspectives to better understand genome structure and function. 
 
-**Preliminary talk title:** Adaptation and maladaption in plant genome
+**Talk title:** Adaptation and maladaption in plant genome
+
+**Talk abstract:** What factors facilitate and constrain adaptation, and how does this influence plant genome evolution and diversity? In this talk, I will discuss research focused on two cases of extraordinary evolutionary parallelism acting on different timescales: the rapid evolution of herbicide-resistant weeds and the formation and degeneration of sex chromosomes. Using a combination of population and comparative genomics, these studies highlight the remarkable multifaceted adaptive potential of agricultural weeds, and the importance of recombination landscapes in driving the evolutionary trajectory and maladaptation of sex chromosomes.
 
 ### Ravinder Kanda
 Senior Lecturer in Evolutionary Genomics, Department of Biological and Medical Sciences, Oxford Brookes University
@@ -50,6 +52,15 @@ Senior Lecturer in Evolutionary Genomics, Department of Biological and Medical S
 **About Ravinder.** Research in my group focuses on understanding the various evolutionary processes that have shaped the composition and evolution of genomes; more recently the focus has been on Endogenous Viral Elements (EVE’s) which constitute a substantial portion of vertebrate genomes. To date, much of the research in this area has focused on mammalian genomes. With the abundance of genomic data from a variety of species now available, we now have the opportunity to investigate the impact of these virally derived insertions across the tree of life.
 
 **Preliminary talk title:** Stowaways in the Genome
+
+### Charles Rotimi
+Scientific Director, National Human Genome Research Institute, National Institutes of Health
+
+![200x200](/assets/img/CharlesRotimi.jpg "Charles Rotimi")
+
+**Talk title:** The complex and dynamic evolutionary history of African genomes in health and disease
+
+**Talk abstract:** In this presentation, I will provide a deeper appreciation of how the geographical region today called “Africa”  shaped human evolutional history, health, and disease through the lens of fossil records and genomics. I will discuss how the growing engagement of African populations in genome science is providing new insights into the forces that shaped human genomes before and after the Out-of-Africa migrations. I will use recent examples to discuss how exposure of Africans to fatal pathogens (e.g., Trypanosoma brucei rhodesiense), resulted in elevated frequencies of alleles conferring survival advantages for infectious diseases, but that are maladaptive in modern-day environments. I will discuss how the use of group labels such as “Blacks” or “Africans” may lead to the distortion of our understanding of the distribution of medically relevant genetic variation. Finally, I will advocate the systematic engagements of African populations in genomics as both a scientific imperative and a social justice issue.
 
 ## Workshop
 

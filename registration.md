@@ -16,7 +16,10 @@ redirect_from:
 
 ## Registration
 
-**Registration for the 58th Population Genetics Group meeting is now open** and the registration form can be accessed here: [**Link to registration form**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-science/school-of-biosciences/population-genetics-group-annual-conference-popgroup58)
+****Registration for the 58th Population Genetics Group meeting is now closed****
+
+
+Registration for the 58th Population Genetics Group meeting is now open and the registration form can be accessed here: [**Link to registration form**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-science/school-of-biosciences/population-genetics-group-annual-conference-popgroup58)
 
 Cost for general conference attendance:
 - Student, member of Genetics Society: £60
