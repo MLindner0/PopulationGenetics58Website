@@ -54,8 +54,8 @@ menu:
     url:               /registration/
   - title:             Program
     url:               /program/
-  - title:             Information for presenters
-    url:               /presenters/
+  - title:             Information for attendees
+    url:               /attendees/
   - title:             Plan your trip
     url:               /trip/
 

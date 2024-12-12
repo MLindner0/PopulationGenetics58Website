@@ -8,6 +8,9 @@ redirect_from:
   - /download/
 ---
 
+![PopGroup word cloud](/assets/img/wordcloud.png)  
+Word cloud of most frequent terms in abstracts of contributed talks and posters. (Common English words have been removed.)
+
 # About
 
 <!--author-->
