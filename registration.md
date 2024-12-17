@@ -16,11 +16,11 @@ redirect_from:
 
 ## Registration
 
-**Registration for the 58th Population Genetics Group meeting is now closed.**
+**Registration for the 58th Population Genetics Group meeting is now closed.** We are not able to accommodate requests for late registration.
 
 ## Abstract submission for oral or poster presentations
 
-**Abstract submission is now closed.**
+**Abstract submission is now closed.** We are not able to accommodate requests for late abstract submission.
 
 ## Bursaries
 
