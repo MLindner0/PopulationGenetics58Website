@@ -16,9 +16,9 @@ redirect_from:
 
 ## Program Overview
 
-<a href="/assets/pdf/Program_PopGroup58.pdf" target="_blank">**Program download**</a>
+<a href="https://drive.google.com/file/d/1us4YBOhE8iSne2QjR_OdOKfXcLTPZVdt/view?usp=sharing" target="_blank">**Program download**</a>
 
-## Plenary Speakers
+## Plenary Speakerss
 
 We are delighted to announce three fantastic plenary speakers!
 
