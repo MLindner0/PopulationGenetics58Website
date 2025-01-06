@@ -49,7 +49,9 @@ Senior Lecturer in Evolutionary Genomics, Department of Biological and Medical S
 
 **About Ravinder.** Research in my group focuses on understanding the various evolutionary processes that have shaped the composition and evolution of genomes; more recently the focus has been on Endogenous Viral Elements (EVE’s) which constitute a substantial portion of vertebrate genomes. To date, much of the research in this area has focused on mammalian genomes. With the abundance of genomic data from a variety of species now available, we now have the opportunity to investigate the impact of these virally derived insertions across the tree of life.
 
-**Preliminary talk title:** Stowaways in the Genome
+**Talk title:** Stowaways in the Genome
+
+**Talk abstract:** Most genomes consist of a substantial amount of sequences derived from transposable elements, including viruses (termed Endogenous Viral Elements, EVEs). While their diversity and impact on genome evolution has been well studied in humans and larger primates, considerably less is known about these insertions in the genomes of other species, especially outside of mammals. In this talk, I will discuss our recent knowledge of the implications of these stowaways on genome evolution, and current research projects in my group that highlight the potential uses of these genomic elements, and their diversity outside of mammals.
 
 ### Charles Rotimi
 Scientific Director, National Human Genome Research Institute, National Institutes of Health
