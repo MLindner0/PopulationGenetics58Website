@@ -72,3 +72,5 @@ Please help us acknowledge the importance of student contributions at PopGroup b
 [Voting link for best student talk](https://forms.gle/75xWXD9yTioNXb2P8)
 
 [Voting link for best student poster](https://forms.gle/Uw4SwYtBAxiHZwFu8)
+
+Voting will open with the start of the 58th Population Genetics Group meeting. Please note, that **voting for posters will close at 5pm on Wednesday** and **voting for talks will close at 1pm on Thursday**.
