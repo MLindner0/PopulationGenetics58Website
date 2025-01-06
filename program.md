@@ -18,6 +18,8 @@ redirect_from:
 
 <a href="https://drive.google.com/file/d/1kfru8HckWlJONtoKbtQ0ppYawdHf2wyD/view?usp=sharing" target="_blank">**Program download**</a>
 
+<a href="https://drive.google.com/file/d/1DqHU-jzXHN-7lFJAqWn15qgvnjKKaogc/view?usp=sharing" target="_blank">**Abstract book download**</a>
+
 ## Plenary Speakerss
 
 We are delighted to announce three fantastic plenary speakers!
