@@ -27,13 +27,13 @@ Visiting address: 32 Leavygreave Rd, Broomhall, Sheffield S3 7RD
 
 ## Evening registration
 
-Evening registration will be open from 5-9pm on 6 January at The Red Deer.
+Evening registration will be open from 5-9pm on 6 January at The University Arms.
 
 <br/>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.8993129020305!2d-1.4795379999999998!3d53.380851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879827f82a38c05%3A0xe56ada55b6b321d5!2sThe%20Red%20Deer!5e0!3m2!1sen!2suk!4v1734010136709!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.849989085734!2d-1.4854161000000001!3d53.3817335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487978827a6a9491%3A0x27bd476f62f6de6!2sUniversity%20Arms!5e0!3m2!1sen!2suk!4v1736159759690!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-Visiting address: 18 Pitt St, Sheffield City Centre, Sheffield S1 4DD
+Visiting address: 197 Brook Hill, Broomhall, Sheffield S3 7HG
 
 
 ## Conference dinner
