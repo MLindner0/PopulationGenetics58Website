@@ -56,6 +56,8 @@ menu:
     url:               /program/
   - title:             Information for attendees
     url:               /attendees/
+  - title:             Webinar links
+    url:               /webinar/
   - title:             Plan your trip
     url:               /trip/
 
