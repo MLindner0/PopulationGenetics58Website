@@ -7,7 +7,7 @@ redirect_from:
   - /download/
 ---
 
-[Venues](#venues) [Presenter's guide](#presenter's-guide)
+[Venues](#venues) [Presenter's guide](#presenter's-guide) [Voting for student prizes](#voting-for-student-prizes)
 
 # Venues
 
@@ -65,4 +65,10 @@ Accepted speakers will be provided with a link to upload their presentation and 
 
 Please prepare your posters in A0 portrait format for good fit to the poster boards. 
 
+# Voting for student prizes
 
+Please help us acknowledge the importance of student contributions at PopGroup by voting for the best student talk and student poster:
+
+[Voting link for best student talk](https://forms.gle/75xWXD9yTioNXb2P8)
+
+[Voting link for best student poster](https://forms.gle/Uw4SwYtBAxiHZwFu8)
