@@ -7,7 +7,7 @@ redirect_from:
   - /download/
 ---
 
-[Venues](#venues) [Presenter's guide](#presenter's-guide) [Voting for student prizes](#voting-for-student-prizes)
+[Venues](#venues) [Presenter's guide](#presenter's-guide) [Voting for student prizes](#voting-for-student-prizes) [List of attendees](#list-of-attendees)
 
 # Venues
 
@@ -74,3 +74,7 @@ Please help us acknowledge the importance of student contributions at PopGroup b
 [Voting link for best student poster](https://forms.gle/Uw4SwYtBAxiHZwFu8)
 
 Voting will open with the start of the 58th Population Genetics Group meeting. Please note, that **voting for posters will close at 5pm on Wednesday** and **voting for talks will close at 1pm on Thursday**.
+
+# List of attendees
+
+<a href="https://docs.google.com/spreadsheets/d/1hF_ma3-_0AAxbeb3KFeP0angybCJg_mO/edit?usp=sharing&ouid=113267240445786955348&rtpof=true&sd=true" target="_blank">**List of attendees download**</a>
