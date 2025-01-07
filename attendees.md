@@ -7,7 +7,7 @@ redirect_from:
   - /download/
 ---
 
-[Venues](#venues) [Presenter's guide](#presenter's-guide) [Voting for student prizes](#voting-for-student-prizes) [List of attendees](#list-of-attendees)
+[Venues](#venues) [Conference Dinner](#conference-dinner) [Presenter's guide](#presenter's-guide) [Voting for student prizes](#voting-for-student-prizes) [List of attendees](#list-of-attendees)
 
 # Venues
 
@@ -49,6 +49,20 @@ The Conference Dinner will be held at **[Kelham Island Museum](https://www.sheff
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.4114713479353!2d-1.4722883000000002!3d53.389579000000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879787c59f24ae5%3A0x2196035ff15a959f!2sKelham%20Island%20Museum!5e0!3m2!1sen!2suk!4v1734008639544!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 Visiting address: Alma Street, Sheffield S3 8RY
+
+
+# Conference Dinner
+
+After the celebrations of Roger Butlin' career, we will head down to Kelham Island Museum where the bar will be open from 5pm. Please do wear your name badges.
+
+At 6.30pm, there will be a demonstration of The River Don Engine: built in 1904 it is one of the most powerful steam engines ever constructed and has been used to make armour plates for battleships and reactor
+shields for nuclear power plants.
+
+The banquet itself will start at 7pm, please start registering for the banquet from 6.45.
+
+We will then have a ceilidh (traditional folk dancing) from 9pm. Bar will close 10.30, with music stopping at 11pm.
+
+![Conference dinner at Kelham Island Museum](/assets/img/dinner.png)
 
 
 # Presenter's guide
