@@ -38,10 +38,6 @@ Visiting address: 197 Brook Hill, Broomhall, Sheffield S3 7HG
 
 ## Conference dinner
 
-![Conference dinner at Kelham Island Museum](/assets/img/dinner.png)
-
-<br/>
-
 The Conference Dinner will be held at **[Kelham Island Museum](https://www.sheffieldmuseums.org.uk/visit-us/kelham-island-museum/)** on Thursday 9th January.
 
 <br/>
