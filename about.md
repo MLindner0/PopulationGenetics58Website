@@ -8,8 +8,14 @@ redirect_from:
   - /download/
 ---
 
+<br/>
+
+**Thanks to everyone who came to Popgroup 58 for helping to make the meeting a success. We look forward to seeing you next year in Lille (France) for Popgroup 59 (7-9 January 2026)!**
+
+<br/>
+
 ![PopGroup word cloud](/assets/img/wordcloud.png)  
-Word cloud of most frequent terms in abstracts of contributed talks and posters. (Common English words have been removed.)
+Word cloud of most frequent terms in abstracts of contributed talks and posters.
 
 # About
 
